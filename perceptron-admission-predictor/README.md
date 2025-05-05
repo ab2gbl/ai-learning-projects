@@ -2,7 +2,7 @@
 
 This project is a basic implementation of a **Perceptron model** to simulate the admission process of students into a fictional university based on their performance in **Math** and **Computer Science** exams. It was completed as part of an AI fundamentals workshop.
 
-![image](./perceptron1.png)
+![image](./images/perceptron1.png)
 
 ## 📌 Overview
 
@@ -16,7 +16,7 @@ The output (Y) is:
 - **1**: Admitted
 - **0**: Rejected
 
-![image2](./perceptron2.png)
+![image2](./images/perceptron2.png)
 
 ### 🧮 Dataset
 
