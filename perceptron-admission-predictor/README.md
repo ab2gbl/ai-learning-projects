@@ -80,3 +80,15 @@ A perceptron is one of the simplest types of artificial neural networks. Here's 
    `perceptron-admission-predictor.ipynb`
 
 > Requires: Python 3.8+, numpy, matplotlib, jupyter
+
+## 📚 Learning Outcome
+
+- Understand how a Perceptron can learn simple binary classification
+
+- Practice building and training a model without external ML libraries
+
+- Learn how to implement MSE, weight updates, and gradient calculations manually
+
+## 🧑‍💻 Author
+
+Made by [@ab2gbl](https://ab2gbl-portfolio.vercel.app/) as part of an AI learning journey 👨‍🎓
