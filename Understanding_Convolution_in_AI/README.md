@@ -7,14 +7,14 @@ This project demonstrates the **manual implementation of 2D convolution filters*
 ## 📚 What Is Convolution?
 
 **Convolution** is a mathematical operation used to extract spatial features from images. It involves sliding a small matrix (called a **kernel** or **filter**) over an image and computing a weighted sum at each position. This highlights patterns like:
-![conv](./pics/2D_Convolution_Animation.gif)
 - Edges
 - Corners
 - Shapes
 - Textures
 
 In **Artificial Intelligence**, especially in **Convolutional Neural Networks (CNNs)**, convolution is used to help models learn what parts of an image are important — from simple lines to complex objects.
-![example](./pics/conv%20pic.png)
+![conv](./pics/2D_Convolution_Animation.gif)
+
 ---
 
 ## 🧠 Why It Matters
@@ -26,6 +26,7 @@ Convolutional layers are the backbone of most computer vision models. By applyin
 - **Sharpened details** using contrast-enhancing filters
 
 Understanding how convolution works at the pixel level helps you appreciate what CNNs do internally — and builds intuition for designing better models.
+![example](./pics/conv%20pic.png)
 
 ---
 
