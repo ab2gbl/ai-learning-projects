@@ -1,4 +1,4 @@
-# 🧠 AAI TP3 – Understanding Convolution in AI & Image Processing
+# 🧠 Understanding Convolution in AI & Image Processing
 
 This project demonstrates the **manual implementation of 2D convolution filters** in Python as part of the **Artificial Intelligence and Applications (AAI)** module. The goal is to understand how convolution operates on images and why it's foundational in computer vision and AI.
 
