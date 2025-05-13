@@ -72,13 +72,13 @@ A perceptron is one of the simplest types of artificial neural networks. Here's 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your_username/perceptron-admission-predictor
+   git clone https://github.com/ab2gbl/ai-learning-projects/
    cd perceptron-admission-predictor
    ```
 2. Open and run the Jupyter Notebook:
 
    `perceptron-admission-predictor.ipynb`
-
+ab2gbl/ai-learning-projects
 > Requires: Python 3.8+, numpy, matplotlib, jupyter
 
 ## 📚 Learning Outcome
